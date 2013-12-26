@@ -4,7 +4,7 @@ defmodule Riak.Mixfile do
   def project do
     [ app: :'riak-elixir-client',
       version: "0.0.1",
-      elixir: "~> 0.11.1",
+      elixir: "~> 0.12",
       deps: deps ]
   end
 
